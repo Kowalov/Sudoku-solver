@@ -1,5 +1,5 @@
 # Sudoku solver
-> Solves every Sudoku board using backtracking algorythm.
+> Solves every Sudoku board using backtracking algorithm.
 
 ## Table of contents
 * [General info](#general-info)
